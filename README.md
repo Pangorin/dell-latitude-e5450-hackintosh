@@ -21,7 +21,7 @@ So, this is the guide to hackintosh this deadass dumb laptop. This thing is like
 ## Summary
 - Hackintosh this laptop is kinda fun, and I think it's quite easy to be honest.
 - And as I said before, performance is the thing you really have to keep in mind. I don't use this laptop for heavy tasks, just some light coding and basic stuff like writing a document. Also using this machine with external monitor is quite limited, it worked quite well with my Dell U2419H, which is a Full HD monitor. 2K or 4K monitors are stressful for this machine, so avoid it if you can.
-- If you want to use me pre-built EFI, make sure to replace the SMBIOS section, *I will probably update the config.plist to remove my current SMBIOS, because if someone use the same SMBIOS and lock this machine down then I will lose all my work stuff and have to mess up with my iCloud account*.
+- If you want to use my pre-built EFI, make sure to replace the SMBIOS section, *I will probably update the config.plist to remove my current SMBIOS, because if someone use the same SMBIOS and lock this machine down then I will lose all my work stuff and have to mess up with my iCloud account*.
 
 ## Result
 ![Screenshot](https://github.com/Pangorin/dell-latitude-e5450-hackintosh/blob/main/images/Screenshot.png)
